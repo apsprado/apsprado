@@ -19,9 +19,18 @@ Sou desenvolvedor web, atualmente estou me especializando em PHP, Laravel, JavaS
 
 ||||||
 | ----: | :----: | :----: | :----: | :----: |
-| Linguagens   | <img src="imagens/csharp.png" /><br> C#  |  <img  src="imagens/dot-net.png" /><br> .NET| <img src="imagens/nodejs.png"  /><br> NodeJs   | <img src="imagens/next.png" /> <br> NextJs  |
-| Bancos Relacional   | <img src="imagens/mysql.png" /> <br> MySQL  | <img src="imagens/sql.png" /> <br> Sql Server  |   |   |
-| Banco Não Relacional  | <img src="imagens/mongodb.png" /><br> MongoDB  |  <img src="imagens/redis.png" /> <br> Redis | <img src="imagens/elasticsearch.png" /> <br> Elastic Search  |   |
+| Linguagens   | 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><br> PHP | 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br> JS | 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /><br> Laravel | 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /><br> AdonisJs |
+
+| Bancos Relacional   | 
+   <img src="imagens/mysql.png" /> <br> MySQL  | 
+   <img src="imagens/sql.png" /> <br> PostGresql  |  
+   <img src="imagens/sql.png" /> <br> Oracle  | 
+     | 
+
 | Versionador  | <img src="imagens/git.png" /> <br> Git  |   |   |   |
 | Ferramentas  | <img src="imagens/visual-studio-code.png" /> <br> Visual Studio Code  | <img src="imagens/visualstudio.png"  /> <br> Visual Studio  |   |   |
 | Nuvem  | <img src="imagens/aws.png" /><br> Aws  | <img src="imagens/azure.png" /> <br> Azure  |   |   |
