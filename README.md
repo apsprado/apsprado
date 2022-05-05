@@ -10,8 +10,8 @@
 
 Sou desenvolvedor web, atualmente estou me especializando em PHP, Laravel, JavaScritp...
 
-- 🔭 Atualmente estou trabalhando em Junta Comercial do Estado de Sergipe.
-- 🌱 Atualmente estou aprendendo FullStack JavaScript.
+- 🔭 Estou trabalhando em Junta Comercial do Estado de Sergipe.
+- 🌱 Atualmente estou aprendendo FullStack JavaScript....
 
 
 ### Ferramentas e Tecnologias:
@@ -19,33 +19,15 @@ Sou desenvolvedor web, atualmente estou me especializando em PHP, Laravel, JavaS
 
 ||||||
 | ----: | :----: | :----: | :----: | :----: |
-| Linguagens   | 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><br> PHP | 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br> JS | 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /><br> Laravel | 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /><br> AdonisJs |
-
-| Bancos Relacional   | 
-   <img src="imagens/mysql.png" /> <br> MySQL  | 
-   <img src="imagens/sql.png" /> <br> PostGresql  |  
-   <img src="imagens/sql.png" /> <br> Oracle  | 
-     | 
-
-| Versionador  | <img src="imagens/git.png" /> <br> Git  |   |   |   |
-| Ferramentas  | <img src="imagens/visual-studio-code.png" /> <br> Visual Studio Code  | <img src="imagens/visualstudio.png"  /> <br> Visual Studio  |   |   |
-| Nuvem  | <img src="imagens/aws.png" /><br> Aws  | <img src="imagens/azure.png" /> <br> Azure  |   |   |
-| Sistemas  | <img src="imagens/linux.png" /><br> Linux  | <img src="imagens/ubuntu.png" /><br> Ubuntu  | <img src="imagens/microsoft-windows.png" /> <br> Windows  |   |
-| Paineis  | <img src="imagens/aaPanel.png" /><br> aaPanel   |   |   |   |
-| Container  | <img src="imagens/docker.png" /><br> Docker  |   |   |   |
+| Linguagens   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width="40" height="40"/><br> PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/><br> JS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/><br> Laravel | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/><br> AdonisJs |
+| Bancos Relacional   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/> <br> MySQL  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><br> PostgreSQL  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  width="40" height="40" /> <br> Oracle  | | 
+| Versionador  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"/><br> Git  |   |   |   |
+| Ferramentas  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40"/> <br> Visual Studio Code  |   |   |   |
+| Sistemas  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"  width="40" height="40"/> <br> Ubuntu  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <br> Windows  |  | |
+| Container  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/><br> Docker  |   |   |   |
    
    
-
-### Estou aprendendo:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-
-
+   
 ### Stats:
 <div>
 <a href="https://github.com/apsprado">
